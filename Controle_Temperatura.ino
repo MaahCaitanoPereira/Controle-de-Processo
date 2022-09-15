@@ -1,3 +1,6 @@
+//FUNCAO MAP USADA
+//CODIGO COM INSERCAO DE DADOS DO USUARIO
+
 double rele = A1;   //saída para relé 
 
   double doubleMap(double x, double in_min, double in_max, double out_min, double out_max) 
