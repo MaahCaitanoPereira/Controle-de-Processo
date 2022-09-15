@@ -5,4 +5,4 @@ Com objetivo para controle de processos químicos com baixo custo usando a ferra
 
 #Codigos usados no Visual Studio Code, junto a outras extensões, PlatformIO para controle do Arduino.
 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50" height="50"/> <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" width="50" height="50"/> <img src="http://1.bp.blogspot.com/-_iKnq7EWvvs/ViAbj4sgaiI/AAAAAAAAABM/T1SuytFLUs0/s1600/tumblr_inline_nuzslgdZSi1tcgidk_1280.jpg" width="50" height="50"/>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="50" height="50"/> <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png" width="50" height="50"/> 
