@@ -1,4 +1,4 @@
-# Controle de Processos com Arduino: pH, Vazão eTemperatura. 
+# Controle de Processos com Arduino: pH, Vazão e Temperatura. 
 
 Esses códigos teve como finalidade Pesquisa Cientifíca, realizada na instituição UNIFESP.
 Com objetivo para controle de processos químicos com baixo custo usando a ferramenta Arduino.
